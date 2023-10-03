@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "2.Customasing the form", "2.Customasing the form\2.Customasing the form.vbproj", "{6D82BE58-F33A-4303-BE7E-1F86B9C54096}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "3.Arithmetic calculation in VB", "3.Arithmetic calculation in VB\3.Arithmetic calculation in VB.vbproj", "{F60CD3D7-7ECB-4C6A-8D13-9B90D3779213}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Arithmetic Calculation in my VB", "3.Arithmetic Calculation in my VB\3.Arithmetic Calculation in my VB.csproj", "{8F64162F-3D0E-401C-8E49-1E145EB60E4A}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "3.AAritmetic Calculation in VB", "3.AAritmetic Calculation in VB\3.AAritmetic Calculation in VB.vbproj", "{D1C4BB95-C607-4AD1-9021-9AC3B70313EB}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "2.Calculation of Arithmatic in Vb", "2.Calculation of Arithmatic in Vb\2.Calculation of Arithmatic in Vb.vbproj", "{A9B68C08-5E83-4CC7-8209-92C64F89C146}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "4. Working with control", "4. Working with control\4. Working with control.vbproj", "{725D57C5-0896-4F2F-AF89-D6E6459836D2}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "2. working with controls", "2. working with controls\2. working with controls.vbproj", "{03A750F5-4890-4D54-98A3-C8B92F0AE39A}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.ListBox", "1.ListBox\1.ListBox.vbproj", "{B6FDA1A2-8BDE-450E-AA14-DD4AD9E5217D}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "5.ComboBox", "5.ComboBox\5.ComboBox.vbproj", "{DE9A8360-CDA8-4496-9C68-6D08BC475190}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D82BE58-F33A-4303-BE7E-1F86B9C54096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D82BE58-F33A-4303-BE7E-1F86B9C54096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D82BE58-F33A-4303-BE7E-1F86B9C54096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D82BE58-F33A-4303-BE7E-1F86B9C54096}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F60CD3D7-7ECB-4C6A-8D13-9B90D3779213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60CD3D7-7ECB-4C6A-8D13-9B90D3779213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60CD3D7-7ECB-4C6A-8D13-9B90D3779213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60CD3D7-7ECB-4C6A-8D13-9B90D3779213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F64162F-3D0E-401C-8E49-1E145EB60E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F64162F-3D0E-401C-8E49-1E145EB60E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F64162F-3D0E-401C-8E49-1E145EB60E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F64162F-3D0E-401C-8E49-1E145EB60E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1C4BB95-C607-4AD1-9021-9AC3B70313EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1C4BB95-C607-4AD1-9021-9AC3B70313EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1C4BB95-C607-4AD1-9021-9AC3B70313EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1C4BB95-C607-4AD1-9021-9AC3B70313EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9B68C08-5E83-4CC7-8209-92C64F89C146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9B68C08-5E83-4CC7-8209-92C64F89C146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9B68C08-5E83-4CC7-8209-92C64F89C146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9B68C08-5E83-4CC7-8209-92C64F89C146}.Release|Any CPU.Build.0 = Release|Any CPU
+		{725D57C5-0896-4F2F-AF89-D6E6459836D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{725D57C5-0896-4F2F-AF89-D6E6459836D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{725D57C5-0896-4F2F-AF89-D6E6459836D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{725D57C5-0896-4F2F-AF89-D6E6459836D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03A750F5-4890-4D54-98A3-C8B92F0AE39A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A750F5-4890-4D54-98A3-C8B92F0AE39A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A750F5-4890-4D54-98A3-C8B92F0AE39A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A750F5-4890-4D54-98A3-C8B92F0AE39A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6FDA1A2-8BDE-450E-AA14-DD4AD9E5217D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6FDA1A2-8BDE-450E-AA14-DD4AD9E5217D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6FDA1A2-8BDE-450E-AA14-DD4AD9E5217D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6FDA1A2-8BDE-450E-AA14-DD4AD9E5217D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE9A8360-CDA8-4496-9C68-6D08BC475190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE9A8360-CDA8-4496-9C68-6D08BC475190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE9A8360-CDA8-4496-9C68-6D08BC475190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE9A8360-CDA8-4496-9C68-6D08BC475190}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9727C32-E34E-4E97-92CE-CC352E6DB900}
+	EndGlobalSection
+EndGlobal
